@@ -45,12 +45,7 @@ data that is collected
 
 ### For Backend Developer
 
-make api with Spring Boot
-
-- Refactor code
-- Authen and Security
-- Code standard (linter)
-- Can change database
+make the api with Spring Boot
 
 ## Special
 
