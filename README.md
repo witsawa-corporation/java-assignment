@@ -15,12 +15,16 @@ After finish, send your repo to apichan@witsawa.com
 
 ### Account
 
-one user has many account
+one user has many accounts
 - Add Account
 - Edit Account
 - Delete Account
 
-### Income
+### Transaction
+
+one account has many transactions
+
+#### Income
 
 data that is collected
   => thing, money, date
@@ -28,7 +32,7 @@ data that is collected
 - Edit Income
 - Delete Income
 
-### Expense
+#### Expense
 
 data that is collected
   => thing, money, date
